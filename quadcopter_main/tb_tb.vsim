@@ -1,0 +1,26 @@
+open final.mpf
+
+vsim work.QuadCopter_tb_1 
+run -all
+
+vsim work.QuadCopter_tb_2 
+run -all
+
+vsim work.QuadCopter_tb_3 
+run -all
+
+vsim work.QuadCopter_tb_4
+run -all
+
+vsim work.QuadCopter_tb_5
+run -all
+
+vsim work.QuadCopter_tb_6
+run -all
+
+vsim work.QuadCopter_tb_7
+run -all
+
+vsim work.QuadCopter_tb_8
+run -all
+

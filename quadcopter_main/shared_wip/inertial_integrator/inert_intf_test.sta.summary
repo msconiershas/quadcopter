@@ -1,0 +1,65 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clk'
+Slack : -10.074
+TNS   : -1224.132
+
+Type  : Slow 1200mV 85C Model Hold 'clk'
+Slack : 0.343
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'clk'
+Slack : -1.724
+TNS   : -505.155
+
+Type  : Slow 1200mV 85C Model Removal 'clk'
+Slack : 1.823
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -377.000
+
+Type  : Slow 1200mV 0C Model Setup 'clk'
+Slack : -8.763
+TNS   : -1056.457
+
+Type  : Slow 1200mV 0C Model Hold 'clk'
+Slack : 0.298
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'clk'
+Slack : -1.411
+TNS   : -405.991
+
+Type  : Slow 1200mV 0C Model Removal 'clk'
+Slack : 1.622
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -377.000
+
+Type  : Fast 1200mV 0C Model Setup 'clk'
+Slack : -5.267
+TNS   : -553.578
+
+Type  : Fast 1200mV 0C Model Hold 'clk'
+Slack : 0.178
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'clk'
+Slack : -0.613
+TNS   : -161.516
+
+Type  : Fast 1200mV 0C Model Removal 'clk'
+Slack : 1.077
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clk'
+Slack : -3.000
+TNS   : -493.975
+
+------------------------------------------------------------
