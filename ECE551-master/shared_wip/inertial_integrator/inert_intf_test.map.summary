@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Dec 01 10:43:29 2017
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+Revision Name : inert_intf_test
+Top-level Entity Name : inert_intf_test
+Family : Cyclone IV E
+Total logic elements : 728
+    Total combinational functions : 548
+    Dedicated logic registers : 374
+Total registers : 374
+Total pins : 16
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 2
+Total PLLs : 0
